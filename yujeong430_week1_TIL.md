@@ -14,6 +14,7 @@
 ⇒ 클라이언트가 서버와 연결이 끊겨도 데이터를 기억하기 위해 쿠키, 세션, 웹스토리지 등장.
 
 ## Cookie
+![image](https://github.com/user-attachments/assets/c463219e-2253-47c8-a0c8-3e9d3aee3c0b)
 
 - 클라이언트에 저장되는 키와 값 형태의 작은 파일로, 이름, 값, 만료시간, 경로정보가 들어있음.
 - 클라이언트의 상태 정보를 로컬에 저장했다가 참조.
@@ -48,6 +49,7 @@ export const removeCookie = (name) => {
 ```
 
 ## Session
+![image (1)](https://github.com/user-attachments/assets/cf0220de-cd74-4965-8e2c-ffd0e62538ba)
 
 
 - 사용자 정보를 서버측에서 관리.
